@@ -44,6 +44,26 @@ Configurações (*Settings*): Em *`Preferred paper:`* ecolha `A4` e em *`Install
 
 **Nota:** *Install missing packages on-the-fly* + *Yes* siguinifica que o MiKTeX
 irá baixar os pacotes :package: que estão faltando, pois o arquivo que você baixou
-não possuiu todas elas.
+não possui todas elas.
 
 ![img6](https://github.com/RafaelDexter/semanadafisica/blob/master/img/miktex/06.PNG)
+
+Neste ponto o instalador mostra um resumo das configurações escolhidas, basta clicar
+em *`Start`*
+
+![img7](https://github.com/RafaelDexter/semanadafisica/blob/master/img/miktex/07.PNG)
+
+Enfim, o programa comecará a ser instalado em sua máquina. Este processo dependerá
+da velocidade de *download* se sua *internet*.
+
+![img8](https://github.com/RafaelDexter/semanadafisica/blob/master/img/miktex/08.PNG)
+
+Quando este processo terminar, o botão *`Avançar >`* estará abilitado, clique neste.
+
+![img9](https://github.com/RafaelDexter/semanadafisica/blob/master/img/miktex/09.PNG)
+
+Finalmente, se tudo ocorreu bem, a seguinte tela será apresentada:
+
+![img10](https://github.com/RafaelDexter/semanadafisica/blob/master/img/miktex/10.PNG)
+
+Pronto, basta clicar em *`Close`* e seu compilador LaTeX MiKTeX está instalando :blush:
