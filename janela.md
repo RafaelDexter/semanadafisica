@@ -70,24 +70,27 @@ Pronto, basta clicar em *`Close`* e seu compilador LaTeX MiKTeX está instalando
 
 ## Instalando o Texmaker
 
-No *website* do Texmaker, baixei a versão 4.5 32-bit (Até o dia que eu fiz este
-tutorial não exitia uma versão 64-bit, mas isto não importa.)
+No *website* do Texmaker, baixei a versão 4.5 32-bit (até o dia que eu fiz este
+tutorial não exitia uma versão 64-bit, mas isto não importa :stuck_out_tongue_closed_eyes: ).
 
 ![img1](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/01.PNG)
 
-A
+Após ter baixado o instalador, inicie-o. A na primeira janela será a de licensa,
+basta ler e clicar em *`I Agree`*, caso você concorde ou em *`Cancel`*. Você decide.
 
 ![img2](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/02.PNG)
 
-a
+O instalador procura pelo diretório padrão, não precisa mudar. Então clique em
+*`Install`*
 
 ![img3](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/03.PNG)
 
-a
+O Texmaker comecará a ser instalado em seu computador.
 
 ![img4](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/04.PNG)
 
-a
+Terminado o processo de instalação, o botão *`Close`* está abilitado, clique nele e
+pronto, o Texmaker já está instalado!
 
 ![img5](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/05.PNG)
 
