@@ -94,7 +94,34 @@ pronto, o Texmaker já está instalado!
 
 ![img5](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/05.PNG)
 
-a
+# Testando!!!
+
+Inicie o Texmaker e copie e cole o seguinte texto:
+
+```tex
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{lmodern}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\author{Rafael Dexter}
+\title{Teste}
+\begin{document}
+
+Teste de compilação
+
+Equação:
+
+\begin{equation}
+E = m c^{2}
+\end{equation}
+
+\end{document}
+```
 
 ![img6](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/06.PNG)
 
