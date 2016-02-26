@@ -41,3 +41,7 @@ tutorial de instalação do [MiKTeX e Texmaker clicando aqui.]()
 
 # Materiais
 
+Os materiais utilizados durante o minicurso (apostila e o modelo) estão disponíveis
+em
+
+* [Downloads](https://github.com/RafaelDexter/semanadafisica/tree/master/modelos)
