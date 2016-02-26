@@ -151,3 +151,10 @@ Você não precisa manter todos salvos. Ao final da compilação pode-se apagar 
 aqruivos com as extensões `.aux` (Arquivo AUX) `.synctex`. Mas só os apague quando
 tiver terminado seu trabalho ou quando algum erro não para de aparecer e você não
 sabe mais o que fazer.
+
+# Donwload
+
+O arquivo do LaTeX utilizado por mim (`teste.tex`) e o arquivo compilado (`teste.pdf`)
+estão disponíveis em:
+
+* [Download](https://github.com/RafaelDexter/semanadafisica/tree/master/modelos)
