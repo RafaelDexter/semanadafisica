@@ -123,20 +123,31 @@ E = m c^{2}
 \end{document}
 ```
 
-![img6](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/06.PNG)
 
-a
+Ficará parecido com isso:
 
 ![img7](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/07.PNG)
 
-a
+Salve o aquivo em qualquer lugar do seu computador. No meu caso criei um diretório
+com o nome `teste` e salvei o aqruivo dentro deste com o mesmo nome que o
+diretório.
 
 ![img8](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/08.PNG)
 
-a
+Vamos ao teste :bangbang: Procure pelo botão "compilar" e clique na "seta" que
+antecede-o.
 
 ![img9](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/09.PNG)
 
-a
+O Texmaker abrirá uma nova janela (que pode estar embutida e a esqueda ou uma nova janela)
+com o texto compilado. Pronto, o "LaTeX" está funcionando em seu computador.
+
+O Texmaker cria vários documentos durante a compilação, para o caso mostrado anteriormente
+os arquivos criados foram:
 
 ![img10](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/10.PNG)
+
+Você não precisa manter todos salvos. Ao final da compilação pode-se apagar os
+aqruivos com as extensões `.aux` (Arquivo AUX) `.synctex`. Mas só os apague quando
+tiver terminado seu trabalho ou quando algum erro não para de aparecer e você não
+sabe mais o que fazer.
