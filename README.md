@@ -36,5 +36,8 @@ sodo apt-get install texlive-full texmaker
 
 ## Windowns :unamused:
 
+Se você não tem muita experiência em instalar programa no Windows, veja meu
+tutorial de instalação do [MiKTeX e Texmaker clicando aqui.]()
+
 # Materiais
 

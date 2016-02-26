@@ -67,3 +67,46 @@ Finalmente, se tudo ocorreu bem, a seguinte tela será apresentada:
 ![img10](https://github.com/RafaelDexter/semanadafisica/blob/master/img/miktex/10.PNG)
 
 Pronto, basta clicar em *`Close`* e seu compilador LaTeX MiKTeX está instalando :blush:
+
+## Instalando o Texmaker
+
+No *website* do Texmaker, baixei a versão 4.5 32-bit (Até o dia que eu fiz este
+tutorial não exitia uma versão 64-bit, mas isto não importa.)
+
+![img1](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/01.PNG)
+
+A
+
+![img2](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/02.PNG)
+
+a
+
+![img3](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/03.PNG)
+
+a
+
+![img4](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/04.PNG)
+
+a
+
+![img5](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/05.PNG)
+
+a
+
+![img6](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/06.PNG)
+
+a
+
+![img7](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/07.PNG)
+
+a
+
+![img8](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/08.PNG)
+
+a
+
+![img9](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/09.PNG)
+
+a
+
+![img10](https://github.com/RafaelDexter/semanadafisica/blob/master/img/texmaker/10.PNG)
