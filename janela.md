@@ -19,13 +19,13 @@ A primeira tela de instalação do programa são os termos e condições:
 ![img2](https://github.com/RafaelDexter/semanadafisica/blob/master/img/miktex/02.PNG)
 
 Após ter lido todas as informações :smirk: e concordar com os termos, marque a opção
-*`I accept the MiKTeX copying conditions`*, e clicar em *`Avançar`* Você pode não
+*`I accept the MiKTeX copying conditions`*, e clicar em *`Avançar >`* Você pode não
 concordar com alguma condição e clicar em *`Cancelar`* e não instalar :laughing: 
 
 ![img3](https://github.com/RafaelDexter/semanadafisica/blob/master/img/miktex/03.PNG)
 
 Somente para não ter problemas deixe a opção *`Anyone who uses this computer (all users)`*
-marcada e clique em *`Avançar`*.
+marcada e clique em *`Avançar >`*.
 
 ![img4](https://github.com/RafaelDexter/semanadafisica/blob/master/img/miktex/04.PNG)
 
@@ -36,6 +36,14 @@ experiência...
 ... se tiver bastante experinência com o Windowns então você não presisa deste
 tutorial :sunglasses:
 
-Só clique em *`Avançar`*.
+Só clique em *`Avançar >`*.
 
 ![img5](https://github.com/RafaelDexter/semanadafisica/blob/master/img/miktex/05.PNG)
+
+Configurações (*Settings*): Em *`Preferred paper:`* ecolha `A4` e em *`Install missing packages on-the-fly:`* ecolha `Yes`, por fim clique em *`Avançar >`*.
+
+**Nota:** *Install missing packages on-the-fly* + *Yes* siguinifica que o MiKTeX
+irá baixar os pacotes :package: que estão faltando, pois o arquivo que você baixou
+não possuiu todas elas.
+
+![img6](https://github.com/RafaelDexter/semanadafisica/blob/master/img/miktex/06.PNG)
