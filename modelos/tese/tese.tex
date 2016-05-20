@@ -1,0 +1,66 @@
+\documentclass[12pt, a4paper]{report}
+
+\usepackage{graphicx}               %inclusão de figuras
+\usepackage[caption=false]{subfig}  %permite o uso do comando subfloat
+\usepackage{amsmath, amssymb}       %inclusão de símbolos matemáticos 
+\usepackage{lmodern}                %habilita alguns caracteres latinos extras
+\usepackage[T1]{fontenc}            %permite acentuação
+\usepackage[utf8]{inputenc}         %idem anterior - no windows usar latin1
+\usepackage[brazil,brazilian]{babel}%habilita hifenizações
+\usepackage{cite}                   %converte [1,2,3,4,5] -> [1-5]
+\usepackage[margin= 2.5cm]{geometry}%define o tamanho das margens
+\usepackage[normalem]{ulem}         %permite sublinhar uma palavra
+\usepackage{setspace}               %permite usar espaçamento \onehalfspacing \doublespacing
+\usepackage{indentfirst}            %indenta o primeiro parágrafo
+\usepackage{color, colortbl}        %permite textos e tabelas coloridas
+\usepackage{booktabs, array}        %comandos adicionais para melhorar a qualidade das tabelas
+\usepackage{multirow}               %permite juntar linhas de uma tabela
+\usepackage{appendix}               %aumenta alguns recursos de \appendix
+\usepackage{hyperref}               %gera hiperlinks no pdf
+	\hypersetup{colorlinks, citecolor=blue, linkcolor=blue, urlcolor=blue} 
+
+\newcommand{\sen}{\operatorname{sen}}
+
+\begin{document}
+
+%capa
+\include{capa}
+
+\pagenumbering{roman}
+
+%sumário
+\tableofcontents
+
+%agradecimentos
+\include{agra}
+
+%resumo
+\include{resu}
+
+%abstract
+\include{abst}
+
+\pagenumbering{arabic}
+
+%introdução
+\include{intr}
+
+%capítulos
+\include{cap1}
+\include{cap2}
+
+%conclusão
+\include{conc}
+
+%apêndices
+\appendix
+\include{apen}
+
+%bibliográfia
+\newpage
+\phantomsection \label{bibliography}
+\addcontentsline{toc}{chapter}{Referências Bibliográficas}
+\bibliographystyle{ieeetr}
+\bibliography{tese}
+
+\end{document}
